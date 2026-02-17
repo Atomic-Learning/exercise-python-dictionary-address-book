@@ -1,0 +1,19 @@
+{
+    "title": "Exercise: Python Dictionary Address Book",
+    "slug": "exercise-python-dictionary-address-book",
+    "description": "Create a nested dictionary address book with contacts and their phone, address, and email details.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python",
+        "exercise"
+    ],
+    "duration": 8,
+    "prerequisites": [
+        "python-nested-collections"
+    ],
+    "related": [
+        "sample-solution-python-dictionary-address-book"
+    ]
+}
