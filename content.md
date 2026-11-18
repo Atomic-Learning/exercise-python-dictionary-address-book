@@ -29,7 +29,6 @@ Click below to see a sample solution.
 > First, we need to create our dictionary of contacts. Each contact will be a key, and the value will be another dictionary with their details.
 >
 > ```py-cell
->
 > contacts = {
 >    "Alice": {
 >        "phone": "01234 567890",
