@@ -41,7 +41,7 @@ Click below to see a sample solution.
 >        "address": "Buckingham Palace, London",
 >        "email": "bob@example.com"
 >    }
->}
+> }
 > ```
 >
 > Let's print the entire contacts dictionary to see its structure.
@@ -61,7 +61,6 @@ Click below to see a sample solution.
 > Now, let's add a new contact to our dictionary. We'll add Charlie with all their details.
 >
 > ```py-cell
->
 > contacts["Charlie"] = {
 >     "phone": "0207 1234567",
 >     "address": "Imperial College, London",
