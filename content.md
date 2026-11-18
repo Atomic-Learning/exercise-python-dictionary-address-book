@@ -70,7 +70,7 @@ Click below to see a sample solution.
 >
 > Finally, we can update information for an existing contact. Here, we change Alice's phone number.
 >
-> ```py-cell    
+> ```py-cell
 > contacts["Alice"]["phone"] = "07788 654321"
 > print(contacts["Alice"]["phone"])
 > ```
