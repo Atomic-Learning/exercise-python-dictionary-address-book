@@ -9,11 +9,10 @@
         "python",
         "exercise"
     ],
-    "duration": 8,
+    "duration": 12,
     "prerequisites": [
         "python-nested-collections"
     ],
     "related": [
-        "sample-solution-python-dictionary-address-book"
     ]
 }
