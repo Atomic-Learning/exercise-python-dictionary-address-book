@@ -28,7 +28,7 @@ Click below to see a sample solution.
 >[!HIDDEN]
 > First, we need to create our dictionary of contacts. Each contact will be a key, and the value will be another dictionary with their details.
 >
->```py-cell
+> ```py-cell
 >
 > contacts = {
 >    "Alice": {
@@ -47,7 +47,6 @@ Click below to see a sample solution.
 > Let's print the entire contacts dictionary to see its structure.
 >
 > ```py-cell
->     
 > print(contacts)
 > ```
 >
